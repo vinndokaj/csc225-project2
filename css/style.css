@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #b0332f;
+}
+
+.jumbotron {
+    background-color: #f1da65;
+}
+
+.card {
+    width: 18rem;
+    height: 25rem;
+}
+
+.special-sauce {
+    height: 29rem;
+}
+
+.recc-products {
+    width: 10rem;
+    height: 10rem;
+    object-fit: contain;
+}
